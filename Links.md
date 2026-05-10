@@ -2,6 +2,9 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-10 20:25 (IR Time)
+- 📥 [wg_3gswed.zip](https://github.com/erfakk/sandbox/raw/main/dl/wg_3gswed.zip) `0.00 MB`
+
 ### 📅 2026-05-10 16:21 (IR Time)
 - 📥 [Happ.apk](https://github.com/erfakk/sandbox/raw/main/dl/Happ.apk) `55.03 MB`
 
