@@ -2,6 +2,9 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-11 18:37 (IR Time)
+- 📥 [punctualtriangulardorado.zip](https://github.com/erfakk/sandbox/raw/main/dl/punctualtriangulardorado.zip) `15.67 MB`
+
 ### 📅 2026-05-11 18:35 (IR Time)
 - 📥 [ouridolizedhamadryad.zip](https://github.com/erfakk/sandbox/raw/main/dl/ouridolizedhamadryad.zip) `16.37 MB`
 
