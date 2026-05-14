@@ -2,6 +2,9 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 14:46 (IR Time)
+- 📱 [ShirOKhorshid-2026.05.14.apk](https://github.com/erfakk/sandbox/raw/main/dl/ShirOKhorshid-2026.05.14.apk) `23.93 MB`
+
 ### 📅 2026-05-14 14:28 (IR Time)
 - 🗜️ [V2rayNG v2.1.4.zip](https://github.com/erfakk/sandbox/raw/main/dl/V2rayNG%20v2.1.4.zip) `59.68 MB`
 
